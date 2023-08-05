@@ -1,0 +1,16 @@
+{
+  "name": "admin-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest run",
+    "test:w": "vitest"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.7",
+    "node": "^20.5.0",
+    "typescript": "^5.1.6",
+    "vitest": "^0.34.1"
+  }
+}
